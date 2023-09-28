@@ -1,16 +1,11 @@
-import './App.css';
-import Banner from './components/header/banner/banner';
-import Menu from './components/header/menu/menu';
-import Body from './components/body/body';
+import Header from "./components/header";
+import './App.css'
 
 function App() {
   return (
     <div className="App">
-      <Menu/>
-      <Banner/>
-      <Body/>
+      <Header />
     </div>
   );
 }
-
 export default App;
