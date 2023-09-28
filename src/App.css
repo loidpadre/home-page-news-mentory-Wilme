@@ -1,0 +1,13 @@
+.container {
+  width: 100%;
+  max-width: 1216px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+}
