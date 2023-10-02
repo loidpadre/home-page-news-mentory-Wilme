@@ -9,9 +9,7 @@ export function Aside(){
             <AsideCard/>
             <AsideCard/>
             <AsideCard/>
-            {/* <AsideCard/>
-            <AsideCard/>
-            <AsideCard/> */}
+
              
         </Wrapper>
     )
